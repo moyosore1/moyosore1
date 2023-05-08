@@ -1,15 +1,18 @@
-# 🌐 Software Developer
+# 🌐 Software Engineer
+
+# About Me
+Hi there! I'm a software engineer with experience in both back-end and front-end development. I am passionate about building scalable and efficient applications, and I love learning new technologies and tools to improve my skills.
 
 # Programming Languages:
-Python | Javascript | Java
+Python | Javascript
 
 # Skills:
- - Django | Flask | FastAPI
- - Spring Boot
+ - Django  | FastAPI
+ - React Native
  - Vanilla Javascript | React 
  - MySQL | PostgreSQL | Cassandra | MongoDB  
  - REST API | GraphQL
- - Docker
+ - Docker | K8ns
 
 # Experience:
 
